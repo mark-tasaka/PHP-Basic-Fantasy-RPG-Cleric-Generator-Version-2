@@ -295,8 +295,25 @@
     $vsSpell = saveSpell ($level) - $demiHumanSpellSave;
     
     $characterRaceTraits = demiHumanTraits ($characterRace);
-    $primeReqBonus = primeReq($strength);
+    $primeReqBonus = primeReq($wisdom);
     $secondAttack = secondAttack($level);
+
+    $level1Spells = level1Spells ($level);
+    $level2Spells = level2Spells ($level);
+    $level3Spells = level3Spells ($level);
+    $level4Spells = level4Spells ($level);
+    $level5Spells = level5Spells ($level);
+    $level6Spells = level6Spells ($level);
+
+    $turnHD1 = turnHd1 ($level);
+    $turnHD2 = turnHd2 ($level);
+    $turnHD3 = turnHd3 ($level);
+    $turnHD4 = turnHd4 ($level);
+    $turnHD5 = turnHd5 ($level);
+    $turnHD6 = turnHd6 ($level);
+    $turnHD7 = turnHd7 ($level);
+    $turnHD8 = turnHd8 ($level);
+    $turnHD9 = turnHd9 ($level);
     
     
     ?>
@@ -431,7 +448,109 @@
            echo $vsSpell;
            ?>
            </span>
+
+
+        <span id="level1Spells">
+            <?php
+            echo $level1Spells;
+            ?>
+            </span>
+
+        <span id="level2Spells">
+            <?php
+            echo $level2Spells;
+            ?>
+            </span>
+
+
+        <span id="level3Spells">
+                <?php
+                echo $level3Spells;
+                ?>
+                </span>
+
+
+            <span id="level4Spells">
+            <?php
+            echo $level4Spells;
+            ?>
+            </span>
+
+
+            <span id="level5Spells">
+            <?php
+            echo $level5Spells;
+            ?>
+            </span>
+
+            <span id="level6Spells">
+            <?php
+            echo $level6Spells;
+            ?>
+            </span>
+
+
+        <span id="turnHD1">
+            <?php
+            echo $turnHD1;
+            ?>
+        </span>
        
+
+        <span id="turnHD2">
+            <?php
+            echo $turnHD2;
+            ?>
+        </span>
+        
+
+        <span id="turnHD3">
+            <?php
+            echo $turnHD3;
+            ?>
+        </span>
+        
+
+        <span id="turnHD4">
+            <?php
+            echo $turnHD4;
+            ?>
+        </span>
+        
+
+        <span id="turnHD5">
+            <?php
+            echo $turnHD5;
+            ?>
+        </span>
+        
+
+        <span id="turnHD6">
+            <?php
+            echo $turnHD6;
+            ?>
+        </span>
+
+        <span id="turnHD7">
+            <?php
+            echo $turnHD7;
+            ?>
+        </span>
+
+
+        <span id="turnHD8">
+            <?php
+            echo $turnHD8;
+            ?>
+        </span>
+        
+
+        <span id="turnHD9">
+            <?php
+            echo $turnHD9;
+            ?>
+        </span>
+
        <span id="dieRollMethod">
        <?php
         echo $generationMessage;

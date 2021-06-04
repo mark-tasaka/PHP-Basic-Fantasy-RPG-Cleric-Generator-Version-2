@@ -467,3 +467,112 @@ body{
     left:  362px;
 	font-size: 0.5em;
 }
+
+#level1Spells{
+    position:absolute;
+    top: 994px;
+    left: 139px;
+	font-size: 1em;
+}
+
+#level2Spells{
+    position:absolute;
+    top: 994px;
+    left: 171px;
+	font-size: 1em;
+}
+
+
+#level3Spells{
+    position:absolute;
+    top: 994px;
+    left: 205px;
+	font-size: 1em;
+}
+
+
+#level4Spells{
+    position:absolute;
+    top: 994px;
+    left: 240px;
+	font-size: 1em;
+}
+
+#level5Spells{
+    position:absolute;
+    top: 994px;
+    left: 276px;
+	font-size: 1em;
+}
+
+#level6Spells{
+    position:absolute;
+    top: 994px;
+    left: 310px;
+	font-size: 1em;
+}
+
+
+#turnHD1{
+    position:absolute;
+    top: 1093px;
+    left: 78px;
+	font-size: 0.7em;
+}
+
+#turnHD2{
+    position:absolute;
+    top: 1093px;
+    left: 105px;
+	font-size: 0.7em;
+}
+
+#turnHD3{
+    position:absolute;
+    top: 1093px;
+    left: 136px;
+	font-size: 0.7em;
+}
+
+#turnHD4{
+    position:absolute;
+    top: 1093px;
+    left: 168px;
+	font-size: 0.7em;
+}
+
+#turnHD5{
+    position:absolute;
+    top: 1093px;
+    left: 198px;
+	font-size: 0.7em;
+}
+
+#turnHD6{
+    position:absolute;
+    top: 1093px;
+    left: 228px;
+	font-size: 0.7em;
+}
+
+#turnHD7{
+    position:absolute;
+    top: 1093px;
+    left: 256px;
+	font-size: 0.7em;
+}
+
+#turnHD8{
+    position:absolute;
+    top: 1093px;
+    left: 288px;
+	font-size: 0.7em;
+}
+
+
+#turnHD9{
+    position:absolute;
+    top: 1093px;
+    left: 320px;
+	font-size: 0.7em;
+}
