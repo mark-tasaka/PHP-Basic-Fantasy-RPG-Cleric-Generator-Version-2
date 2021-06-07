@@ -7,9 +7,14 @@ A live version of the Basic Fantasy RPG Cleric Character Generator Version 2 is 
 
 
 
+Update 1.02: 2021-06-07
+
+Launch Page added for the Basic Fantasy RPG Cleric Generator version 2.
+
+
 Update 1.01: 2021-06-04
 
-Updates to basicCleric.php, ll_cleric.css adn turnUndead.php. 
+Updates to basicCleric.php, ll_cleric.css and turnUndead.php. 
 
 
 
